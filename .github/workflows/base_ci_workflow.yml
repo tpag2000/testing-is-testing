@@ -35,4 +35,4 @@ jobs:
 
       - name: Run a test
         run: |
-          python -e 'print("here I am")'
+          python -c 'print("here I am")'
